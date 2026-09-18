@@ -1,0 +1,7 @@
+project_id = "vzztqnihkwuhqgavtgae"
+
+[functions.api-gateway]
+verify_jwt = false
+
+[functions.crm-proxy]
+verify_jwt = false
